@@ -1,4 +1,4 @@
-# ohhwells-starter
+# Adrien - Health Coach template
 
 A minimal, production-ready Next.js base template for every vibe-coded OhhWells site. Swap the brand tokens and content files — the architecture stays the same.
 
